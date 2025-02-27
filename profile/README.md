@@ -3,6 +3,6 @@
 
   <br/><br/><br/>
 <h3>
-  <i>Péter "ber" Berényi, my late friend and mentor, whose wisdom and guidance continue to inspire this work.</font></i>
+  <i>"Assumption is the mother of all fuckups."<br/> -- ber</i>
 </h3>
 </div>
